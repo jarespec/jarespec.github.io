@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jarespec.github.io/sitemap.html.gz
+Sitemap: https://jarespec.github.io/app/sitemap.html.gz
+Sitemap: https://jarespec.github.io/assets/sitemap.html.gz
+Sitemap: https://jarespec.github.io/css/sitemap.html.gz
+Sitemap: https://jarespec.github.io/includes/sitemap.html.gz
+Sitemap: https://jarespec.github.io/item/sitemap.html.gz
+Sitemap: https://jarespec.github.io/src/sitemap.html.gz
